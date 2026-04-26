@@ -44,4 +44,5 @@ langchain-openai>=1.1.14
 langchain-community>=0.4.1
 langgraph>=1.1.6
 langchain-google-genai>=4.2.2
-crewai>=1.6.1
+crewai[litellm]>=1.6.1
+langchain-ollama>=1.1.0
